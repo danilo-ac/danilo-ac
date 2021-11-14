@@ -1,5 +1,4 @@
 # Olá, sou o Danilo! 🧑‍💻 Desenvolvedor Web Full Stack ###
-*"Meu propósito é contribuir para que o mundo tenha sempre a sua melhor versão!"*
 
 💬 Busco colaborar em aplicações web, tanto com front ou back end.<br/>
 Sou fascinado pela área de tecnologia e como ela pode impactar o nosso mundo. A programação web foi a forma que encontrei para participar e contribuir em nossas vidas.
@@ -26,7 +25,6 @@ Sou fascinado pela área de tecnologia e como ela pode impactar o nosso mundo. A
 ![VSCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![MSTerminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitBucket](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
